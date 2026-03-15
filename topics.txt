@@ -1,1 +1,2 @@
 c++, github, repozitare, jeste neco asi
+test upravy textu, naucil jsem se ted python a jak fungovat s vetvemi
